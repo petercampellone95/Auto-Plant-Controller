@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:13:07 AM On 5/31/2022
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Auto Plant Controller V2 - SMT_MCU.PrjPcb]
+   Generated File[BOM_PartType-Auto Plant Controller V2 - SMT_MCU.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:13:09 AM On 5/31/2022
