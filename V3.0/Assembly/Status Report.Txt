@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:22:05 AM On 5/31/2022
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Auto Plant Controller - ESP WROOM - 3.PrjPcb]
+   Generated File[BOM_PartType-Auto Plant Controller - ESP WROOM - 3.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:22:05 AM On 5/31/2022
