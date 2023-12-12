@@ -7,4 +7,4 @@ V1.0: Simple breakout board with I2C and SPI headers, an MCP3008 ADC for sensor 
 V2.0: ESP8585 based, WiFi/Bluetooth capable, multiple sensor inputs, USB powered/programmed
     **DESIGN SCRAPPED, layout could be better, overcomplicated, WiFi MIMO antenna design isn't optimal**
 
-V3.0: ESP32-S2-WROOM Based, WiFi/Luetooth capable, board built, programmed, and functional.
+V3.0: ESP32-S2-WROOM Based, WiFi/Bluetooth capable, board built, programmed, and functional.
